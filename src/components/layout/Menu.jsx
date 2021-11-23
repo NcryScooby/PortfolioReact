@@ -4,9 +4,13 @@ import "./Menu.css";
 import { Link } from "react-router-dom";
 
 const Menu = (props) => (
-  <aside className="Menu">
+  <header className="Menu">
+    <div className="nome">
+      <h1>Fabrício Caldana Anelli</h1>
+    </div>
+
     <nav>
-      <ul>
+      <ul className="nav__links">
         <li>
           <Link to="/">Início</Link>
         </li>
@@ -18,7 +22,8 @@ const Menu = (props) => (
         </li>
       </ul>
     </nav>
-  </aside>
+    
+  </header>
 );
 
 export default Menu;

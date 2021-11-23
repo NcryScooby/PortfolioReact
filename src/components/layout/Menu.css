@@ -1,47 +1,44 @@
-.Menu {
-    display: flex;
-    flex-basis: 250px;
-    background-color: #1e90ff;
-    height: 1250px;
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 20%;
+  background-color: #3f91fc;
 }
 
-.Menu nav {
-    flex: 1;
+.nav__links {
+  list-style: none;
 }
 
-.Menu ul {
-    list-style: none;
-    padding: 0;
+.nav__links li {
+  display: inline-block;
+  padding: 0px 20px;
 }
 
-.Menu li {
-    display: flex;
-
+.nav__links li a {
+  color: #fff;
+  transition: all 0.3s ease 0s;
 }
 
-.Menu li a {
-    flex: 1;
-    padding: 10px;
-    margin-bottom: 10px;
-    text-decoration: none;
-    color: #fff;
-    font-size: 1.1rem;
-}
-
-.Menu li a:hover {
-    color: #6e6e6e;
+.nav__links li a:hover {
+  color: #6e6e6e;
 }
 
 ::-webkit-scrollbar-track {
-    background-color: #cecece;
-  }
-  
-  ::-webkit-scrollbar {
-    width: 15px;
-    background: #F4F4F4;
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background: #a5a5a5;
-  }
-  
+  background-color: #cecece;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  background: #f4f4f4;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a5a5a5;
+}
+
+.Menu .nome h1{
+    display: flex;
+    justify-content: flex-start;
+    color: #fff;
+}
