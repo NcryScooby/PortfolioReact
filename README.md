@@ -1,1 +1,2 @@
-## Meu Portfólio feito React
+## Meu Portfólio feito em ReactJS
+https://fabricio-portfolio.netlify.app
