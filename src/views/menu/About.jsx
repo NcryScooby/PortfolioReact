@@ -55,7 +55,7 @@ const About = (props) => (
 
     <p>
       Inglês - Conhecimento Intermediário. <br/> 
-      Espanhol - ConhecimentoBásico.
+      Espanhol - Conhecimento Básico.
     </p>
   </div>
 );
