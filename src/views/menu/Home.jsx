@@ -1,8 +1,13 @@
+import './Home.css'
 import React from "react";
 
 const Home = (props) => (
   <div className="Home">
-    <h1>Home</h1>
+    <h1>Meu Portfólio</h1>
+    <p>
+      Um pouco sobre minha vida, meus projetos, meus estudos, e o que quero me
+      tornar!
+    </p>
   </div>
 );
 
