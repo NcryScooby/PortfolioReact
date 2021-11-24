@@ -5,17 +5,16 @@ const About = (props) => (
 
     <h1>Quem sou eu?</h1>
 
-    <p>Meu nome é Fabrício Caldana Anelli, tenho 21 Anos. Atualmente curso Análise e Desenvolvimento de Sistemas pela   universidade Ritter dos Reis (Uniritter) em Canoas/RS.<br/>
+    <p>Meu nome é Fabrício Caldana Anelli, tenho 21 Anos. Atualmente curso Análise e Desenvolvimento de Sistemas pela   universidade Ritter dos Reis (Uniritter) em Canoas/RS.
     Desde pequeno sempre amei Tecnologia, como a grande maioria, fui aquele garoto
       que adorava ficar horas e horas na frente de um computador, jogando, vendo vídeos e me divertindo com meus
-      amigos.<br/>
+      amigos.
     Conheci a programação com 18 anos, e me apaixonei, eu podia ser o "Deus" do meu próprio mundo,
-      bastava adquirir conhecimento e ter um pouco de criatividade.<br/>
+      bastava adquirir conhecimento e ter um pouco de criatividade.
     A partir disso comecei meus estudos com a programação, visando me tornar um desenvolvedor Front-End, atualmente estou estudando e me aperfeiçoando com
-      HTML5, CSS3, JavaScript e ReactJS. <br/>
-    A minha primeira oportunidade de Estágio foi no Grupo Dimed, onde adquiri
-      conhecimento com alguns frameworks Back-End, como SpringBoot, e de Front-End, como Angular, e uma visão por
-      cima de ReactJS.
+      HTML5, CSS3, JavaScript e ReactJS. 
+    A minha primeira oportunidade profissional foi no Grupo Dimed como Estagiário, onde adquiri
+      conhecimento com alguns frameworks Back-End, como SpringBoot, e de Front-End, como ReactJS e Angular.
       </p>
 
     <h1>Minhas Habilidades</h1>
@@ -30,7 +29,7 @@ const About = (props) => (
       - Experiências com GitHub e GitLab. <br/>
       - Conhecimento básico com algumas linguagens de programação: JavaScript, C, Java. <br/>
       - Conhecimentos com desenvolvimento Web: HTML5, CSS3. <br/>
-      - Conhecimento básico com alguns frameworks Front-End como Angular e ReactJS.
+      - Conhecimento básico com alguns frameworks Front-End como ReactJS e Angular.
     </p>
 
     <h1>Formação e Cursos</h1>
