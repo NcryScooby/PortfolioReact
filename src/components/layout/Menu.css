@@ -4,6 +4,7 @@ header {
   align-items: center;
   padding: 15px 20%;
   background-color: #3f91fc;
+  font-size: 1.5rem;
 }
 
 .nav__links {
