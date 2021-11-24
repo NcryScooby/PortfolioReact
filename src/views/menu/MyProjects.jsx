@@ -5,7 +5,7 @@ const MyProjects = (props) => (
     <h1>Meus Projetos</h1>
     <p>
       Você pode acompanhar alguns dos meus projetos pessoais no GitHub, basta
-      procurar NcryScooby em GitHub.com ou acessar por este <a href="https://github.com/NcryScooby" target="_blank" rel="noreferrer">link</a>.
+      procurar NcryScooby em <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub.com</a> ou acessar por este <a href="https://github.com/NcryScooby" target="_blank" rel="noreferrer">link</a>.
     </p>
   </div>
 );
