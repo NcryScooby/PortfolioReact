@@ -1,6 +1,7 @@
 import React from "react";
 import { SiInstagram, SiFacebook } from "react-icons/si";
 import { GoMarkGithub } from "react-icons/go";
+import { MdOutlineEmail } from "react-icons/md";
 
 const About = (props) => (
   <div className="About">
@@ -71,6 +72,11 @@ const About = (props) => (
       <a href="https://github.com/NcryScooby" target="_blank" rel="noreferrer">
         <GoMarkGithub className="icons"/>
       </a>
+      <abbr title="fabricio_c_anelli@hotmail.com">
+        <a href="mailto:fabricio_c_anelli@hotmail.com" target="_blank" rel="noreferrer">
+          <MdOutlineEmail className="icons"/>
+        </a>
+      </abbr>
     </p>
   </div>
 );
