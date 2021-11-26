@@ -1,4 +1,6 @@
 import React from "react";
+import { SiInstagram, SiFacebook } from "react-icons/si";
+import { GoMarkGithub } from "react-icons/go";
 
 const About = (props) => (
   <div className="About">
@@ -55,6 +57,20 @@ const About = (props) => (
     <p>
       Inglês - Conhecimento Intermediário. <br/> 
       Espanhol - Conhecimento Básico.
+    </p>
+
+    <h1>Redes Sociais</h1>
+
+    <p className="p-icons">
+      <a href="https://www.facebook.com/FabricioScoooby/" target="_blank" rel="noreferrer">
+        <SiFacebook className="icons"/>
+      </a>
+      <a href="https://www.instagram.com/notrealscooby/?hl=pt-br" target="_blank" rel="noreferrer">
+        <SiInstagram className="icons"/>
+      </a>
+      <a href="https://github.com/NcryScooby" target="_blank" rel="noreferrer">
+        <GoMarkGithub className="icons"/>
+      </a>
     </p>
   </div>
 );
