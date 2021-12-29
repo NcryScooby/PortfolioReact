@@ -7,7 +7,7 @@ import NotFound from '../../views/menu/NotFound'
 import MyProjects from "../../views/menu/MyProjects";
 
 
-const Content = (props) => (
+const Content = () => (
   <main className="Content">
     <Switch>
       <Route exact path="/">

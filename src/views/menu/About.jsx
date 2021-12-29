@@ -3,7 +3,7 @@ import { SiInstagram, SiFacebook, SiWhatsapp } from "react-icons/si";
 import { GoMarkGithub } from "react-icons/go";
 import { MdOutlineEmail } from "react-icons/md";
 
-const About = (props) => (
+const About = () => (
   <div className="About">
 
     <h1>Quem sou eu?</h1>
@@ -40,8 +40,8 @@ const About = (props) => (
     <p>
       - Ensino Médio Completo. <br/>
       - Cursando Faculdade de Análise
-      e Desenvolvimentode Sistemas - UniRitter(4º Semestre). <br/>
-      - Curso preparatório Estágio Dimed (PUC).
+      e Desenvolvimento de Sistemas - UniRitter(4º Semestre). <br/>
+      - Curso Desenvolvedores Trainee (PUC-RS).
     </p>
 
     <h1>Experiências</h1>

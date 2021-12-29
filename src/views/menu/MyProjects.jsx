@@ -1,6 +1,6 @@
 import React from "react";
 
-const MyProjects = (props) => (
+const MyProjects = () => (
   <div className="MyProjects">
     <h1>Meus Projetos</h1>
     <p>

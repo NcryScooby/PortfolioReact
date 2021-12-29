@@ -1,7 +1,7 @@
 import './Home.css'
 import React from "react";
 
-const Home = (props) => (
+const Home = () => (
   <div className="Home">
     <h1>Meu Portfólio</h1>
     <p>
